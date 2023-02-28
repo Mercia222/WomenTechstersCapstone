@@ -1,9 +1,15 @@
 # WomenTechstersCapstone
 Capstone Project in the framework of the Women Techsters Fellowship Program by Tech4dev
 
-## Metamask and Coinbase Wallet
 
-This Project is about ERC20 Token creation and its decentralised app through which users can acquire this minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
+
+This Project is about a recruitment web app that helps the recruitment of skilled trades, (eg. electricians, carpenter, plumbers) for companies.
+The main goal is to tackle with Skills shortage: there is a shortage of skilled tradespeople, particularly in certain industries and geographic regions. By providing a platform to connect companies with skilled trades, we addressed this issue and ensure that businesses have access to the talent they need.
+
+To integrate a Blockchain solution in the Web app, the idea of an ERC20 Token creation came up in order to provide a mean for people to support the  recruitment platform. 
+
+## Metamask and Coinbase Wallet
+ERC20 Token creation and its decentralised app through which users can acquire this minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
 
 
 ## Built with:
