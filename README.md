@@ -8,6 +8,21 @@ The main goal is to tackle with Skills shortage: there is a shortage of skilled 
 
 To integrate a Blockchain solution in the Web app, the idea of an ERC20 Token creation came up in order to provide a mean for people to support the  recruitment platform. 
 
+## ERC20 Token 
+Token name: Skillbridge Token 
+Symbol: SKBG
+
+Deployment of this token has been done on Goerli Testnet, Binance Testnet and Polygon Testnet: 
+
+GOERLI TESTNET: 
+https://goerli.etherscan.io/tx/0x8d3796565d72a1320742f8ed518cf21bcde92a1c7709cfedcc9cae9d15b160ce
+
+POLYGON TESTNET:
+https://mumbai.polygonscan.com/token/0x6a78df99108f16569861695e1d7a91c8908f19fd#balances
+
+BSC (BINANCE) TESTNET: 
+https://testnet.bscscan.com/tx/0x997de1c3ac8d18e5ad9599c22b1c3b0013f7fffd21ce1a79dcc3ff7c2efadb4e
+
 ## Metamask and Coinbase Wallet
 ERC20 Token creation and its decentralised app through which users can acquire this minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
 
@@ -19,7 +34,9 @@ ERC20 Token creation and its decentralised app through which users can acquire t
 - Thirdweb
 - CSS
 
+
 ## Screenshots: 
 
-<img width="1512" alt="Screenshot 2023-02-28 at 11 10 47" src="https://user-images.githubusercontent.com/113993706/221824018-ec6c85eb-5cdc-47be-957d-c04baa7228b1.png">
-<img width="1510" alt="Screenshot 2023-02-28 at 11 12 59" src="https://user-images.githubusercontent.com/113993706/221824028-33468ac5-e371-4408-98e7-38252f706c5f.png">
+<img width="1511" alt="Screenshot 2023-02-28 at 20 12 09" src="https://user-images.githubusercontent.com/113993706/221955468-56f3f208-5700-4cf7-9b12-04fadb3fe989.png">
+
+<img width="1511" alt="Screenshot 2023-02-28 at 20 12 22" src="https://user-images.githubusercontent.com/113993706/221955489-895148d0-51dd-433a-b2c3-451591767967.png">
