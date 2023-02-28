@@ -4,7 +4,7 @@ Capstone Project in the framework of the Women Techsters Fellowship Program by T
 
 
 This Project is about a recruitment web app that helps the recruitment of skilled trades, (eg. electricians, carpenter, plumbers) for companies.
-The main goal is to tackle with Skills shortage: there is a shortage of skilled tradespeople, particularly in certain industries and geographic regions. By providing a platform to connect companies with skilled trades, we addressed this issue and ensure that businesses have access to the talent they need.
+The main goal is to tackle with skills shortage: there is a shortage of skilled tradespeople, particularly in certain industries and geographic regions. By providing a platform to connect companies with skilled trades, we addressed this issue and ensure that businesses have access to the talent they need.
 
 To integrate a Blockchain solution in the Web app, the idea of an ERC20 Token creation came up in order to provide a mean for people to support the  recruitment platform. 
 
@@ -24,7 +24,7 @@ Bsc (Binance) Testnet:
 https://testnet.bscscan.com/tx/0x997de1c3ac8d18e5ad9599c22b1c3b0013f7fffd21ce1a79dcc3ff7c2efadb4e
 
 ## Metamask and Coinbase Wallet
-ERC20 Token creation and its decentralised app through which users can acquire this minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
+ERC20 Token creation and its decentralised app through which users can acquire minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
 
 
 ## Built with:
