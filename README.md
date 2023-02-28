@@ -39,4 +39,6 @@ ERC20 Token creation and its decentralised app through which users can acquire t
 
 <img width="1511" alt="Screenshot 2023-02-28 at 20 12 09" src="https://user-images.githubusercontent.com/113993706/221955468-56f3f208-5700-4cf7-9b12-04fadb3fe989.png">
 
-<img width="1511" alt="Screenshot 2023-02-28 at 20 12 22" src="https://user-images.githubusercontent.com/113993706/221955489-895148d0-51dd-433a-b2c3-451591767967.png">
+<img width="1512" alt="Screenshot 2023-02-28 at 21 17 34" src="https://user-images.githubusercontent.com/113993706/221968740-6cf83d18-a5a8-461d-af64-28ebd091c401.png">
+
+
