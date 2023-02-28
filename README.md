@@ -14,13 +14,13 @@ Symbol: SKBG
 
 Deployment of this token has been done on Goerli Testnet, Binance Testnet and Polygon Testnet: 
 
-GOERLI TESTNET: 
+Goerli Testnet: 
 https://goerli.etherscan.io/tx/0x8d3796565d72a1320742f8ed518cf21bcde92a1c7709cfedcc9cae9d15b160ce
 
-POLYGON TESTNET:
+Polygon Testnet:
 https://mumbai.polygonscan.com/token/0x6a78df99108f16569861695e1d7a91c8908f19fd#balances
 
-BSC (BINANCE) TESTNET: 
+Bsc (Binance) Testnet: 
 https://testnet.bscscan.com/tx/0x997de1c3ac8d18e5ad9599c22b1c3b0013f7fffd21ce1a79dcc3ff7c2efadb4e
 
 ## Metamask and Coinbase Wallet
