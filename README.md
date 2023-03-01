@@ -15,13 +15,13 @@ Symbol: SKBG
 Deployment of this token has been done on Goerli Testnet, Binance Testnet and Polygon Testnet: 
 
 Goerli Testnet: 
-https://goerli.etherscan.io/tx/0x8d3796565d72a1320742f8ed518cf21bcde92a1c7709cfedcc9cae9d15b160ce
+https://goerli.etherscan.io/token/0xb8a2fa1d79498e1c9f82c2c6ac94802dfb8bbdb7
 
 Polygon Testnet:
-https://mumbai.polygonscan.com/token/0x6a78df99108f16569861695e1d7a91c8908f19fd#balances
+https://mumbai.polygonscan.com/token/0x81d0b8dbd2f2cdb80ff2710d061c5ea745eaf00e
 
 Bsc (Binance) Testnet: 
-https://testnet.bscscan.com/tx/0x997de1c3ac8d18e5ad9599c22b1c3b0013f7fffd21ce1a79dcc3ff7c2efadb4e
+https://testnet.bscscan.com/token/0x1fb0aae1d0355b12cac820b3a8abb7fa51526322
 
 ## Metamask and Coinbase Wallet
 ERC20 Token creation and its decentralised app through which users can acquire minted token. It helps to claim the released tokens through access of Metamask or Coinbase wallet 
